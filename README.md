@@ -1,8 +1,8 @@
 <!-- 🌸 Pink Aesthetic GitHub Profile README 🌸 -->
-<h1 align="center">🌷 hi, i'm <PRIVATE_PERSON> 🩷</h1>
+<h1 align="center">🌷 hi, i'm Jana 🩷</h1>
 
 <p align="center">
-✨ front-end fairy ✨ · 🌸 css enthusiast 🌸 · ☁️ lover of soft aesthetics ☁️
+✨ ux design fairy ✨ · 🌸 css enthusiast 🌸 · ☁️ lover of soft aesthetics ☁️
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 💕 about me
 🌷 i love creating things that look soft, cozy, and a little bit magical ✨  
 🎀 currently learning **React**, **TailwindCSS**, and a sprinkle of **animation magic**  
-🧁 fueled by pastel colors, bubble tea, and good vibes 🌸
+🧁 fueled by pastel colors, coffee, and good vibes 🌸
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ### ☁️ let's connect
-💌 [instagram.com/yourname](#)  
+💌 [instagram.com/ux.withjana](#)  
 🌷 [twitter.com/yourname](#)  
 🧁 [your-portfolio.com](#)
 
